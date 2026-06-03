@@ -2,9 +2,9 @@
 
 > **⚠️ CRITICAL WARNING: DO NOT RUN THIS ON YOUR MAIN WORKSTATION**  
 > **USE A DISPOSABLE VIRTUAL MACHINE OR ISOLATED SANDBOX ONLY**
-> **Thanks to this particular scammer: GabrielRopez Fernando{Fake Name For Sure}**
----
 
+---
+> **Thanks to this particular scammer: GabrielRopez Fernando{Fake Name For Sure}**
 ## 📌 Purpose
 
 This repository is a **fork of a malicious scam repository** provided for **educational and security research purposes only**.
