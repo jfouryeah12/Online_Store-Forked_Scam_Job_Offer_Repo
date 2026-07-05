@@ -5,6 +5,7 @@
 
 ---
 > **Thanks to this particular scammer: GabrielRopez Fernando{Fake Name For Sure}**
+>Scammer Link: https://github.com/Littman05
 ## 📌 Purpose
 
 This repository is a **fork of a malicious scam repository** provided for **educational and security research purposes only**.
